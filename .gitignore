@@ -1,0 +1,7 @@
+.git-versioned-pom.xml
+.idea/
+*.iml
+*.jar
+*.war
+*.versionsBackup
+**/target/
